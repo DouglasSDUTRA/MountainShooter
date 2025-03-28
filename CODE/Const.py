@@ -1,0 +1,13 @@
+#C
+COLOR_ORANGERED = (255,69,0)
+COLOR_FLORALWHITE = (255,250,240)
+
+#M
+MENU_OPTION = ("NEW GAME 1P",
+               "NEW GAME 2P - COOPERATIVE",
+               "NEW GAME 2P - COMPETITIVE",
+               "SCORE",
+               "EXIT")
+#W
+WIN_WIDTH = 576
+WIN_HEIGTH = 324
